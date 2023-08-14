@@ -1,0 +1,22 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-group p {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+}
+
+.actions button {
+    width: 30%;
+    background-color: rgba(173, 216, 230, 0.199);
+}
